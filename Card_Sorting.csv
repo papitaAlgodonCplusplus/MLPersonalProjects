@@ -1,0 +1,121 @@
+Familia,Region,Vuela?,Alimentacion,Nombre,Value
+Ave,África - Europa - Oceanía,No Vuela,,Agapornis,1
+,,,,Faisán Versicolor,13
+,,,,Flamenco Africano,3
+,,,,Ninfa,8
+,,,,Pavo Ocelado,21
+,,,,Pingüino Adeliae,23
+,,,,Pingüino Gentó,11
+,,,,Turaco Mejillas Blancas,2
+,,,,Turaco Persa,7
+,,Vuela,,Avestruz,14
+,,,,Cacatúa Cresta Azufrada,5
+,,,,Cisne Negro,12
+,,,,Lori Arcoiris,33
+,,,,Turaco Cresta Roja,31
+,América del Norte,No Vuela,,Aguila de Harris o Rojinegra,17
+,,,,Aguililla Gris,18
+,,,,Cisne Mudo,28
+,,,,Ganso Egipcio,35
+,,,,Guajolote Común,30
+,,,,Pato Pinto,24
+,,,,Perico Frente Roja o Tamulipeco,15
+,,,,Perico Quita o Perico Mexicano,19
+,,,,Quelele o Caracara,20
+,,,,Urraca Cara Negra,27
+,,Vuela,,Águila Real,34
+,,,,Búho Cornudo,4
+,,,,Cuervo,22
+,,,,Flamenco Americano,26
+,,,,Pato Carolina,25
+,,,,Pato Pijiji Bicolor,29
+,América del Sur,,,Flamenco Chileno,10
+,,,,Guacamaya Alas Verdes,32
+,,,,Guacamaya Azul o Jacinta,6
+,,,,Macano Cola de León,9
+,,,,Pava Cojolita,16
+,,,,Perico Monjita o Cotorra Argentina,36
+,,,,Zopilote Negro,37
+,,,,Casuario,38
+,,,,Chachalaca,39
+,,,,Chachalaca Negra o Pajuil,40
+,,,,Copete de Piedra,41
+,,,,Guacamaya Azul Dorada,42
+,,,,Guacamaya Escarlata,43
+,,,,Guacamaya Verde Militar,44
+,,,,Hocofaisán,45
+,,,,Loro Cabeza Amarilla,46
+,,,,Ñandu,47
+,,,,Toco Tucán,48
+,,,,Zopilote Rey,49
+,Asia,,,Cerceta Ala Verde,50
+,,,,Daubentoni,51
+,,,,Faisán de Collar,52
+,,,,Faisán Dorado,53
+,,,,Faisán Lady,54
+,,,,Faisán Plateado,55
+,,,,Grulla Coronada,56
+,,,,Halcón Cola Roja,57
+,,,,Loro Gris Africano,58
+,,,,Pavo Cornudo,59
+,,,,Perico Cucha o Mejillas Amarillas,60
+,,,,Perico de Frente Blanca,61
+Mamifero,,,Carnivoro,Cacomixtle tropical,66
+,,,,Capibara,67
+,,,,Chimpancé,68
+,,,,Coyote,85
+,,,,Dromedario,69
+,,,,Emu,70
+,,,,Gorila de las tierras bajas,71
+,,,,Hipopótamo del Nilo,72
+,,,,Jaguar,73
+,,,,Lémur Cola Anillada ,76
+,,,,León Africano,75
+,,,,Leopardo,74
+,,,,Mono Araña,77
+,,,,Mono Ardilla,78
+,,,,Mono Patas,79
+,,,,Oso Negro Americano,80
+,,,,Oso Polar,81
+,,,,Puma,82
+,,,,Rinoceronte Blanco,83
+,,,,Tigre de Bengala,84
+,,,Hervivoro,Aguti Negro,87
+,,,,Antílope Acuático,88
+,,,,Antílope Eland,65
+,,,,Antílope Nú Azul,89
+,,,,Antílope u Oria de Cimitarra ,90
+,,,,Ardilla Gris ,91
+,,,,Babuino de Guinea ,92
+,,,,Bisonte Americano,93
+,,,,Borrego de Berbería,94
+,,,,Búfalo Cafre,96
+,,,,Burro,95
+,,,,Caballo,97
+,,,,Canguro Rojo,98
+,,,,Capuchino Cara Blanca ,99
+,,,,Capuchino Crestado ,100
+,,,,Ciervo Muntiajc,86
+,,,,Ciervo Wapiti,101
+,,,,Conejo ,102
+,,,,Elefante Africano,103
+,,,,Jirafa Reticulada,104
+,,,,Liebre de la Patagonia ,105
+,,,,Lince Rojo ,106
+,,,,Llama ,107
+,,,,Mono de Brazza,63
+,,,,Mono Vervet,108
+,,,,Puerco Espín Africano,109
+,,,,Siamang,62
+,,,,Venado Axis,110
+,,,,Venado Cola Blanca,111
+,,,,Venado Dama Dama,112
+,,,,Venado Sika,113
+,,,Omnivoro,Antílope Impala,114
+,,,,Antílope Negro,115
+,,,,Boa Constrictor,119
+,,,,Cobra Egipcia,120
+,,,,Escorpión (Reptil),118
+Reptil,,,,Hiena Rayada,116
+,,,,Orangután,64
+,,,,Suricata,117
